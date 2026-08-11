@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "aloo-paratha",
+    "name": "Aloo Paratha",
+    "description": "Spiced potato stuffed flatbread.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "paratha",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "Punjab"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "paneer-paratha",
+    "name": "Paneer Paratha",
+    "description": "Cottage cheese stuffed flatbread.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "paratha",
+      "north-indian",
+      "paneer",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "gobi-paratha",
+    "name": "Gobi Paratha",
+    "description": "Cauliflower stuffed flatbread.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "paratha",
+      "north-indian"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "Punjab"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "mooli-paratha",
+    "name": "Mooli Paratha",
+    "description": "Radish stuffed flatbread.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "paratha",
+      "north-indian"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "regions": [
+      "North India",
+      "Punjab"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "methi-paratha",
+    "name": "Methi Paratha",
+    "description": "Fenugreek leaves flatbread.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "paratha",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "poha",
+    "name": "Kanda Poha",
+    "description": "Flattened rice with onions and peanuts.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "everyday",
+      "north-indian",
+      "comfort-food"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra",
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "upma",
+    "name": "Rava Upma",
+    "description": "Savory semolina porridge.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "south-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "besan-chilla",
+    "name": "Besan Chilla",
+    "description": "Savory gram flour pancake.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "moong-dal-chilla",
+    "name": "Moong Dal Chilla",
+    "description": "Lentil pancake.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "everyday",
+      "north-indian",
+      "dal"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "idli-sambar",
+    "name": "Idli Sambar",
+    "description": "Steamed rice cakes with lentil soup.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "south-indian",
+      "dal",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "dosa-sambar",
+    "name": "Masala Dosa",
+    "description": "Crispy crepe with potato filling and sambar.",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "categories": [
+      "south-indian",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false
+  },
+  {
+    "id": "poori-sabzi",
+    "name": "Poori Sabzi",
+    "description": "Deep-fried bread with spicy potato curry.",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "categories": [
+      "north-indian",
+      "special",
+      "sabzi"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "bread-pakora",
+    "name": "Bread Pakora",
+    "description": "Fried bread stuffed with potato in gram flour batter.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "north-indian",
+      "comfort-food"
+    ],
+    "seasons": [
+      "monsoon",
+      "winter"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "namkeen-jave",
+    "name": "Namkeen Jave (Vermicelli)",
+    "description": "Savory vermicelli with vegetables.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "sabudana-khichdi",
+    "name": "Sabudana Khichdi",
+    "description": "Tapioca pearls with peanuts and potatoes.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "comfort-food",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "dhokla",
+    "name": "Khaman Dhokla",
+    "description": "Steamed gram flour cake.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Gujarat"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "chole-bhature",
+    "name": "Chole Bhature",
+    "description": "Spicy chickpeas with fried bread.",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "categories": [
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Punjab",
+      "Delhi"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false
+  },
+  {
+    "id": "dal-tadka-jeera-rice",
+    "name": "Dal Tadka + Jeera Rice",
+    "description": "Yellow lentils with cumin rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "rice",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "dal-makhani-roti",
+    "name": "Dal Makhani + Roti",
+    "description": "Creamy black lentils with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "roti",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "all-season",
+      "winter"
+    ],
+    "regions": [
+      "Punjab"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "kadhi-chawal",
+    "name": "Kadhi Chawal",
+    "description": "Yogurt and gram flour curry with rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "north-indian",
+      "comfort-food"
+    ],
+    "seasons": [
+      "summer",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "rajma-chawal",
+    "name": "Rajma Chawal",
+    "description": "Kidney beans curry with rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "north-indian",
+      "comfort-food",
+      "special"
+    ],
+    "seasons": [
+      "all-season",
+      "winter"
+    ],
+    "regions": [
+      "North India",
+      "Punjab"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "chole-chawal",
+    "name": "Chole Chawal",
+    "description": "Chickpea curry with rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "north-indian",
+      "comfort-food"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "aloo-gobi-roti",
+    "name": "Aloo Gobi + Roti",
+    "description": "Potato and cauliflower dry curry with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "bhindi-masala-roti",
+    "name": "Bhindi Masala + Roti",
+    "description": "Spicy okra with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "summer",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "paneer-butter-masala-roti",
+    "name": "Paneer Butter Masala + Roti",
+    "description": "Rich paneer gravy with soft bread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "palak-paneer-roti",
+    "name": "Palak Paneer + Roti",
+    "description": "Spinach and cottage cheese curry with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "sabzi",
+      "roti",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "matar-paneer-roti",
+    "name": "Matar Paneer + Roti",
+    "description": "Peas and cottage cheese curry with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "sabzi",
+      "roti",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "lauki-chana-dal",
+    "name": "Lauki Chana Dal + rice",
+    "description": "Bottle gourd and split chickpeas curry.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "sabzi",
+      "roti",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "sarson-ka-saag-makki-roti",
+    "name": "Sarson ka Saag + Makki ki Roti",
+    "description": "Mustard greens with pearl millet bread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "regions": [
+      "Punjab"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false
+  },
+  {
+    "id": "baingan-bharta-roti",
+    "name": "Baingan Bharta + Roti",
+    "description": "Smoked eggplant mash with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "tori-sabzi-roti",
+    "name": "Tori Sabzi + Roti",
+    "description": "Ridge gourd curry with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "mix-veg-roti",
+    "name": "Mix Veg + Roti",
+    "description": "Mixed vegetable dry curry with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "aloo-jeera-dal-roti",
+    "name": "Aloo Jeera + Dal + Roti",
+    "description": "Cumin potatoes, lentils, and flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "dal",
+      "roti",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "veg-pulao-raita",
+    "name": "Veg Pulao + Raita",
+    "description": "Vegetable pilaf with yogurt dip.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "north-indian",
+      "comfort-food",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "khichdi-papad",
+    "name": "Moong Dal Khichdi",
+    "description": "Lentil and rice porridge.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "comfort-food",
+      "everyday"
+    ],
+    "seasons": [
+      "monsoon",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "dum-aloo-roti",
+    "name": "Dum Aloo + Roti",
+    "description": "Slow-cooked baby potatoes in gravy.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "Kashmir",
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "malai-kofta-roti",
+    "name": "Malai Kofta + Roti",
+    "description": "Potato and paneer balls in rich gravy.",
+    "mealTypes": [
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false
+  },
+  {
+    "id": "veg-manchurian-fried-rice",
+    "name": "Veg Manchurian + Fried Rice",
+    "description": "Indo-Chinese vegetable balls in gravy with fried rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "dal-palak-roti",
+    "name": "Dal Palak + Roti",
+    "description": "Spinach and lentil curry with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "roti",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "lemon-rice",
+    "name": "Lemon Rice",
+    "description": "Tangy lemon-flavored rice with peanuts.",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "categories": [
+      "rice",
+      "everyday",
+      "south-indian"
+    ],
+    "seasons": [
+      "summer",
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "vegetable-biryani",
+    "name": "Vegetable Biryani",
+    "description": "Aromatic spiced rice with mixed vegetables.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "special",
+      "north-indian",
+      "south-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "kadai-paneer-roti",
+    "name": "Kadai Paneer + Roti",
+    "description": "Spicy paneer cooked with bell peppers and onions.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "shahi-paneer-pulao",
+    "name": "Shahi Paneer + Pulao",
+    "description": "Rich, creamy paneer curry with vegetable pilaf.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "rice",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "paneer-tikka-masala-roti",
+    "name": "Paneer Tikka Masala + Roti",
+    "description": "Grilled paneer in a spiced tomato gravy with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "Punjab"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "rava-dosa",
+    "name": "Rava Dosa",
+    "description": "Crispy semolina crepe.",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "categories": [
+      "south-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "medu-vada",
+    "name": "Medu Vada",
+    "description": "Crispy deep-fried lentil donuts.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "south-indian",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "moong-dal-tadka-rice",
+    "name": "Moong Dal Tadka + Rice",
+    "description": "Yellow moong lentils with rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "rice",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "chana-dal-roti",
+    "name": "Chana Dal + Roti",
+    "description": "Split bengal gram curry with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "roti",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "bombay-veg-grilled-sandwich",
+    "name": "Bombay Veg Grilled Sandwich",
+    "description": "Spicy, tangy and packed with veggies, a famous Mumbai street food.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "everyday",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "masala-vada",
+    "name": "Masala Vada",
+    "description": "Crispy and savory chana dal fritters.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "south-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "vada-pav",
+    "name": "Vada Pav",
+    "description": "Spicy potato slider, the quintessential Mumbai fast food.",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "categories": [
+      "special",
+      "comfort-food"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "bhel-puri",
+    "name": "Bhel Puri",
+    "description": "Sweet, spicy, and tangy puffed rice chaat.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "dabeli",
+    "name": "Kutchi Dabeli",
+    "description": "Spicy potato mixture stuffed in a soft bun.",
+    "mealTypes": [
+      "lunch",
+      "snack"
+    ],
+    "categories": [
+      "special",
+      "comfort-food"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Gujarat"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "pav-bhaji",
+    "name": "Pav Bhaji",
+    "description": "Spiced mixed vegetable mash served with buttered soft bread.",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "categories": [
+      "special",
+      "comfort-food",
+      "sabzi"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "sabudana-vada",
+    "name": "Sabudana Vada",
+    "description": "Crispy fried tapioca pearl and potato patties.",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "categories": [
+      "comfort-food",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "paneer-bhurji-roti",
+    "name": "Paneer Bhurji + Roti",
+    "description": "Scrambled cottage cheese cooked with onions, tomatoes and spices.",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "paneer-pasanda-roti",
+    "name": "Paneer Pasanda + Roti",
+    "description": "Rich and creamy paneer curry with stuffed cottage cheese.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "soya-chunks-curry-rice",
+    "name": "Soya Chunks Curry + Rice",
+    "description": "Protein-rich meal of spiced soya nuggets and rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "rice",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "veg-kolhapuri-roti",
+    "name": "Veg Kolhapuri + Roti",
+    "description": "Spicy mixed vegetable curry from Kolhapur.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "special",
+      "comfort-food"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "aloo-matar-roti",
+    "name": "Aloo Matar + Roti",
+    "description": "Classic potato and green peas curry.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "kadai-mushroom-roti",
+    "name": "Kadai Mushroom + Roti",
+    "description": "Spicy mushroom and bell pepper curry.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "lauki-kofta",
+    "name": "Lauki Ka Kofta",
+    "description": "Deep-fried bottle gourd dumplings in a spicy tomato-onion gravy.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "summer",
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "Uttar Pradesh"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "matar-nimona",
+    "name": "UP Style Matar Nimona",
+    "description": "A classic winter curry made from fresh ground green peas and spices.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "regions": [
+      "Uttar Pradesh"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "aloo-jeera-fry",
+    "name": "Aloo Jeera Fry (Masala Aloo)",
+    "description": "Crispy pan-fried potatoes tossed with cumin and dry spices.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "everyday",
+      "north-indian",
+      "comfort-food"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "saphita-dal",
+    "name": "Saphita Dal (Sagpaita)",
+    "description": "Saphita Dal (also known as Sagpaita or Satpaita) is a traditional, healthy lentil dish from Uttar Pradesh, India. It combines split black lentils (kala urad dal) or mixed pulses with fresh winter greens like spinach (palak) or bathua, seasoned simply with asafoetida (hing), garlic, and a warm ghee or mustard oil tempering.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "everyday",
+      "north-indian",
+      "comfort-food"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "regions": [
+      "North India",
+      "Uttar Pradesh"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "lauki-raita",
+    "name": "Lauki Ka Raita",
+    "description": "Cooling yogurt side dish mixed with grated and boiled bottle gourd.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "kaddu-puri",
+    "name": "Kaddu Ki sabzi + Puri",
+    "description": "Sweet and savory deep-fried Indian bread made with mashed pumpkin.",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "categories": [
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "monsoon",
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "Uttar Pradesh"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "aloo-paratha-kheer",
+    "name": "Aloo Paratha + Kheer",
+    "description": "A rich, classic combination of spicy potato flatbread and sweet rice pudding.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paratha",
+      "special",
+      "north-indian",
+      "comfort-food"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "Punjab"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "dal-paratha-kheer",
+    "name": "Dal Ka Paratha + Kheer",
+    "description": "Protein-packed stuffed lentil flatbread served with creamy kheer.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paratha",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "Uttar Pradesh"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "veg-tehri",
+    "name": "Veg Tehri (Tahri)",
+    "description": "One-pot yellow spiced rice cooked with seasonal vegetables and potatoes.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "everyday",
+      "north-indian",
+      "comfort-food"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "Uttar Pradesh",
+      "Awadh"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "boondi-raita",
+    "name": "Boondi Raita",
+    "description": "Crispy fried gram flour pearls in spiced yogurt.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "raita",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "cucumber-raita",
+    "name": "Mint Cucumber Raita",
+    "description": "Cooling yogurt mixed with grated cucumber and fresh mint.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "raita",
+      "everyday"
+    ],
+    "seasons": [
+      "summer",
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "pineapple-raita",
+    "name": "Pineapple Raita",
+    "description": "Sweet, tangy, and mildly spiced yogurt with pineapple chunks.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "raita",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "bathua-raita",
+    "name": "Bathua Raita",
+    "description": "Winter special yogurt side mixed with healthy bathua (pigweed) leaves.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "raita",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "onion-tomato-raita",
+    "name": "Onion Tomato Raita",
+    "description": "Classic everyday yogurt side mixed with crunchy onions and fresh tomatoes.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "raita",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  }
+]

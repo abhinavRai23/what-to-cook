@@ -1,0 +1,62 @@
+[
+  {
+    "id": "boondi-raita",
+    "name": "Boondi Raita",
+    "description": "Crispy fried gram flour pearls in spiced yogurt.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["raita", "north-indian", "everyday"],
+    "seasons": ["all-season"],
+    "regions": ["North India"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "cucumber-raita",
+    "name": "Mint Cucumber Raita",
+    "description": "Cooling yogurt mixed with grated cucumber and fresh mint.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["raita", "everyday"],
+    "seasons": ["summer", "all-season"],
+    "regions": ["North India", "South India"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "pineapple-raita",
+    "name": "Pineapple Raita",
+    "description": "Sweet, tangy, and mildly spiced yogurt with pineapple chunks.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["raita", "special"],
+    "seasons": ["all-season"],
+    "regions": ["North India"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "bathua-raita",
+    "name": "Bathua Raita",
+    "description": "Winter special yogurt side mixed with healthy bathua (pigweed) leaves.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["raita", "north-indian", "special"],
+    "seasons": ["winter"],
+    "regions": ["North India"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "onion-tomato-raita",
+    "name": "Onion Tomato Raita",
+    "description": "Classic everyday yogurt side mixed with crunchy onions and fresh tomatoes.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["raita", "everyday"],
+    "seasons": ["all-season"],
+    "regions": ["North India", "South India"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  }
+]

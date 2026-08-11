@@ -1,0 +1,110 @@
+[
+  {
+    "id": "lauki-kofta",
+    "name": "Lauki Ka Kofta",
+    "description": "Deep-fried bottle gourd dumplings in a spicy tomato-onion gravy.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["sabzi", "special", "north-indian"],
+    "seasons": ["summer", "all-season"],
+    "regions": ["North India", "Uttar Pradesh"],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "matar-nimona",
+    "name": "UP Style Matar Nimona",
+    "description": "A classic winter curry made from fresh ground green peas and spices.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["sabzi", "everyday", "north-indian"],
+    "seasons": ["winter"],
+    "regions": ["Uttar Pradesh"],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "aloo-jeera-fry",
+    "name": "Aloo Jeera Fry (Masala Aloo)",
+    "description": "Crispy pan-fried potatoes tossed with cumin and dry spices.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["sabzi", "everyday", "north-indian", "comfort-food"],
+    "seasons": ["all-season"],
+    "regions": ["North India"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "safed-urad-dal",
+    "name": "Safed Dal (Saphita Dal)",
+    "description": "Simple and comforting white urad dal tempered with cumin and garlic.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["dal", "everyday", "north-indian", "comfort-food"],
+    "seasons": ["all-season"],
+    "regions": ["North India", "Uttar Pradesh"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "lauki-raita",
+    "name": "Lauki Ka Raita",
+    "description": "Cooling yogurt side dish mixed with grated and boiled bottle gourd.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["everyday", "north-indian"],
+    "seasons": ["summer"],
+    "regions": ["North India"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "kaddu-puri",
+    "name": "Kaddu Ki Puri",
+    "description": "Sweet and savory deep-fried Indian bread made with mashed pumpkin.",
+    "mealTypes": ["breakfast", "lunch"],
+    "categories": ["special", "north-indian"],
+    "seasons": ["monsoon", "winter", "all-season"],
+    "regions": ["North India", "Uttar Pradesh"],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "aloo-paratha-kheer",
+    "name": "Aloo Paratha + Kheer",
+    "description": "A rich, classic combination of spicy potato flatbread and sweet rice pudding.",
+    "mealTypes": ["breakfast", "lunch", "dinner"],
+    "categories": ["paratha", "special", "north-indian", "comfort-food"],
+    "seasons": ["winter", "all-season"],
+    "regions": ["North India", "Punjab"],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "dal-paratha-kheer",
+    "name": "Dal Ka Paratha + Kheer",
+    "description": "Protein-packed stuffed lentil flatbread served with creamy kheer.",
+    "mealTypes": ["breakfast", "lunch", "dinner"],
+    "categories": ["paratha", "special", "north-indian"],
+    "seasons": ["all-season"],
+    "regions": ["North India", "Uttar Pradesh"],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "veg-tehri",
+    "name": "Veg Tehri (Tahri)",
+    "description": "One-pot yellow spiced rice cooked with seasonal vegetables and potatoes.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["rice", "everyday", "north-indian", "comfort-food"],
+    "seasons": ["winter", "all-season"],
+    "regions": ["Uttar Pradesh", "Awadh"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  }
+]

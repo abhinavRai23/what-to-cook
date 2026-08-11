@@ -1,0 +1,98 @@
+[
+  {
+    "id": "hostel-special-thali",
+    "name": "Hostel Special Thali: Dal + Sabzi + Roti + Rice + Boondi Raita",
+    "description": "The classic, comforting mess or PG style complete meal with a side of crispy boondi raita.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["everyday", "north-indian", "comfort-food"],
+    "seasons": ["all-season"],
+    "regions": ["North India"],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "pg-student-combo-rajma",
+    "name": "PG Student Combo: Rajma + Jeera Rice + Cucumber Raita",
+    "description": "A beloved student staple combining spicy kidney beans, cumin rice, and cooling cucumber raita.",
+    "mealTypes": ["lunch"],
+    "categories": ["rice", "north-indian", "comfort-food"],
+    "seasons": ["summer", "all-season"],
+    "regions": ["North India", "Punjab"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "traditional-north-indian-thali",
+    "name": "Traditional North Indian Thali: Shahi Paneer + Dal Makhani + Naan + Pineapple Raita",
+    "description": "A heavy, festive thali featuring rich gravies and sweet-tangy pineapple raita.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["special", "paneer", "dal", "north-indian"],
+    "seasons": ["all-season"],
+    "regions": ["North India"],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false
+  },
+  {
+    "id": "simple-ghar-ki-thali",
+    "name": "Simple Ghar ki Thali: Bhindi Masala + Dal + Roti + Plain Curd",
+    "description": "A light and balanced everyday home meal with a side of fresh plain yogurt.",
+    "mealTypes": ["lunch"],
+    "categories": ["everyday", "sabzi", "dal", "north-indian"],
+    "seasons": ["summer", "all-season"],
+    "regions": ["North India"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "winter-special-thali",
+    "name": "Winter Special Thali: Sarson ka Saag + Makki Roti + Bathua Raita",
+    "description": "The ultimate winter feast featuring mustard greens and seasonal bathua (pigweed) raita.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["special", "sabzi", "north-indian"],
+    "seasons": ["winter"],
+    "regions": ["Punjab", "North India"],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false
+  },
+  {
+    "id": "summer-cool-thali",
+    "name": "Summer Cool Thali: Lauki Sabzi + Roti + Mint Cucumber Raita",
+    "description": "A highly cooling and hydrating lunch specifically designed for peak Indian summers.",
+    "mealTypes": ["lunch"],
+    "categories": ["everyday", "sabzi", "north-indian"],
+    "seasons": ["summer"],
+    "regions": ["North India"],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false
+  },
+  {
+    "id": "south-indian-meals",
+    "name": "Traditional South Indian Meals (Thali)",
+    "description": "Rice served with Sambar, Rasam, dry Poriyal (sabzi), Papad, and plenty of Curd.",
+    "mealTypes": ["lunch"],
+    "categories": ["south-indian", "rice", "special"],
+    "seasons": ["all-season"],
+    "regions": ["South India"],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  },
+  {
+    "id": "street-style-combo-pav-bhaji",
+    "name": "Street Style Combo: Pav Bhaji + Tawa Pulao + Onion Raita",
+    "description": "A spicy street-food inspired lunch combining buttery pav bhaji with spiced pulao and crunchy onion raita.",
+    "mealTypes": ["lunch", "dinner"],
+    "categories": ["special", "comfort-food", "sabzi"],
+    "seasons": ["all-season"],
+    "regions": ["Maharashtra"],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false
+  }
+]

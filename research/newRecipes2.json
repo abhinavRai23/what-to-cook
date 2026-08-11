@@ -1,0 +1,338 @@
+[
+  {
+    "id": "bombay-veg-grilled-sandwich",
+    "name": "Bombay Veg Grilled Sandwich",
+    "description": "Spicy, tangy and packed with veggies, a famous Mumbai street food.",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "categories": [
+      "everyday",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "masala-vada",
+    "name": "Masala Vada",
+    "description": "Crispy and savory chana dal fritters.",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "categories": [
+      "south-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "vada-pav",
+    "name": "Vada Pav",
+    "description": "Spicy potato slider, the quintessential Mumbai fast food.",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "categories": [
+      "special",
+      "comfort-food"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "bhel-puri",
+    "name": "Bhel Puri",
+    "description": "Sweet, spicy, and tangy puffed rice chaat.",
+    "mealTypes": [
+      "lunch"
+    ],
+    "categories": [
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "dabeli",
+    "name": "Kutchi Dabeli",
+    "description": "Spicy potato mixture stuffed in a soft bun.",
+    "mealTypes": [
+      "lunch"
+    ],
+    "categories": [
+      "special",
+      "comfort-food"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Gujarat"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "pav-bhaji",
+    "name": "Pav Bhaji",
+    "description": "Spiced mixed vegetable mash served with buttered soft bread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "special",
+      "comfort-food",
+      "sabzi"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "sabudana-vada",
+    "name": "Sabudana Vada",
+    "description": "Crispy fried tapioca pearl and potato patties.",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "categories": [
+      "comfort-food",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "paneer-bhurji-roti",
+    "name": "Paneer Bhurji + Roti",
+    "description": "Scrambled cottage cheese cooked with onions, tomatoes and spices.",
+    "mealTypes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "north-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "paneer-pasanda-roti",
+    "name": "Paneer Pasanda + Roti",
+    "description": "Rich and creamy paneer curry with stuffed cottage cheese.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "north-indian",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "soya-chunks-curry-rice",
+    "name": "Soya Chunks Curry + Rice",
+    "description": "Protein-rich meal of spiced soya nuggets and rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "rice",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "veg-kolhapuri-roti",
+    "name": "Veg Kolhapuri + Roti",
+    "description": "Spicy mixed vegetable curry from Kolhapur.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "special",
+      "comfort-food"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "Maharashtra"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "aloo-matar-roti",
+    "name": "Aloo Matar + Roti",
+    "description": "Classic potato and green peas curry.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "kadai-mushroom-roti",
+    "name": "Kadai Mushroom + Roti",
+    "description": "Spicy mushroom and bell pepper curry.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "sabzi",
+      "roti",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "id": "veg-manchurian-fried-rice",
+    "name": "Veg Manchurian + Fried Rice",
+    "description": "Indo-Chinese vegetable balls in gravy with fried rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "dal-palak-roti",
+    "name": "Dal Palak + Roti",
+    "description": "Spinach and lentil curry with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "roti",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "ghee-rice",
+    "name": "Ghee Rice",
+    "description": "Aromatic rice cooked in clarified butter and spices.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "special",
+      "south-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "lemon-rice",
+    "name": "Lemon Rice",
+    "description": "Tangy lemon-flavored rice with peanuts.",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "categories": [
+      "rice",
+      "everyday",
+      "south-indian"
+    ],
+    "seasons": [
+      "summer",
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "curd-rice",
+    "name": "Curd Rice",
+    "description": "Yogurt mixed with rice and tempered with spices.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "comfort-food",
+      "south-indian"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "vegetable-biryani",
+    "name": "Vegetable Biryani",
+    "description": "Aromatic spiced rice with mixed vegetables.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "rice",
+      "special",
+      "north-indian",
+      "south-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "kadai-paneer-roti",
+    "name": "Kadai Paneer + Roti",
+    "description": "Spicy paneer cooked with bell peppers and onions.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "shahi-paneer-pulao",
+    "name": "Shahi Paneer + Pulao",
+    "description": "Rich, creamy paneer curry with vegetable pilaf.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "rice",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "paneer-tikka-masala-roti",
+    "name": "Paneer Tikka Masala + Roti",
+    "description": "Grilled paneer in a spiced tomato gravy with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "paneer",
+      "roti",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India",
+      "Punjab"
+    ],
+    "vegetarian": true,
+    "difficulty": "hard",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "rava-dosa",
+    "name": "Rava Dosa",
+    "description": "Crispy semolina crepe.",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "categories": [
+      "south-indian",
+      "everyday"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "medu-vada",
+    "name": "Medu Vada",
+    "description": "Crispy deep-fried lentil donuts.",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "categories": [
+      "south-indian",
+      "special"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "South India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "dal-bukhara-roti",
+    "name": "Dal Bukhara + Roti",
+    "description": "Slow-cooked creamy black lentils.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "roti",
+      "special",
+      "north-indian"
+    ],
+    "seasons": [
+      "winter",
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "medium",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "moong-dal-tadka-rice",
+    "name": "Moong Dal Tadka + Rice",
+    "description": "Yellow moong lentils with rice.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "rice",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  },
+  {
+    "id": "chana-dal-roti",
+    "name": "Chana Dal + Roti",
+    "description": "Split bengal gram curry with flatbread.",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "categories": [
+      "dal",
+      "roti",
+      "everyday",
+      "north-indian"
+    ],
+    "seasons": [
+      "all-season"
+    ],
+    "regions": [
+      "North India"
+    ],
+    "vegetarian": true,
+    "difficulty": "easy",
+    "userAdded": false,
+    "source": [
+      "Veg Recipes of India"
+    ]
+  }
+]

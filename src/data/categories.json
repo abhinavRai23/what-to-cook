@@ -1,0 +1,54 @@
+[
+  {
+    "id": "paratha",
+    "name": "Paratha"
+  },
+  {
+    "id": "roti",
+    "name": "Roti"
+  },
+  {
+    "id": "rice",
+    "name": "Rice"
+  },
+  {
+    "id": "dal",
+    "name": "Dal"
+  },
+  {
+    "id": "sabzi",
+    "name": "Sabzi"
+  },
+  {
+    "id": "paneer",
+    "name": "Paneer"
+  },
+  {
+    "id": "breakfast",
+    "name": "Breakfast"
+  },
+  {
+    "id": "south-indian",
+    "name": "South Indian"
+  },
+  {
+    "id": "north-indian",
+    "name": "North Indian"
+  },
+  {
+    "id": "comfort-food",
+    "name": "Comfort Food"
+  },
+  {
+    "id": "special",
+    "name": "Weekend/Special"
+  },
+  {
+    "id": "everyday",
+    "name": "Everyday Meals"
+  },
+  {
+    "id": "raita",
+    "name": "Raita/Side"
+  }
+]

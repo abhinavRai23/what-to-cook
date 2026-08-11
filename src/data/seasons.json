@@ -1,0 +1,7 @@
+[
+  { "id": "summer", "name": "Summer" },
+  { "id": "monsoon", "name": "Monsoon" },
+  { "id": "winter", "name": "Winter" },
+  { "id": "spring", "name": "Spring" },
+  { "id": "all-season", "name": "All Season" }
+]
