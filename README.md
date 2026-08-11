@@ -4,6 +4,8 @@ Take the cognitive load out of meal planning! This smart web application tracks 
 
 **Stop thinking. Start cooking.**
 
+![Screenshot](public/screenshot.png)
+
 ## 🌟 Features
 
 - **Intelligent Meal Generator:** Automatically generates Daily and Weekly meal plans based on your cooking history.
