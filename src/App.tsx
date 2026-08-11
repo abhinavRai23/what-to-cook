@@ -1,8 +1,8 @@
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import AppLayout from './components/layout/AppLayout';
 import Home from './pages/Home';
-import Recipes from './pages/Recipes';
-import Planner from './pages/Planner';
+import Recipes from './pages/Recipes.tsx';
+import Planner from './pages/Planner.tsx';
 
 function App() {
   return (
